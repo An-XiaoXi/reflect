@@ -38,7 +38,7 @@
 
 **首先得再项目工程里创建实体类，如下图：**
 
-![image](https://github.com/MrLi12/Photo-album/blob/master/imgs/1.jpg）
+![img](https://img-blog.csdnimg.cn/20200805151128592.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzQ5ODg4NTMz,size_16,color_FFFFFF,t_70)
 
 
 
