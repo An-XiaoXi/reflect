@@ -40,6 +40,8 @@
 
 ![img](https://img-blog.csdnimg.cn/20200805151128592.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzQ5ODg4NTMz,size_16,color_FFFFFF,t_70)
 
+![image-20200805095442085](Java 的反射基本使用和运行原理/image-20200805095442085.png)
+
 
 
 ##### 方式一：
@@ -84,10 +86,12 @@ public class demo1 {
 
 
 > 控制台如下：
-https://img-blog.csdnimg.cn/20200805151201105.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzQ5ODg4NTMz,size_16,color_FFFFFF,t_70
+
+![image-20200805095610651](Java 的反射基本使用和运行原理/image-20200805095610651.png)
 
 
-https://img-blog.csdnimg.cn/20200805151141554.jpg	哈哈 但这里并没有对象信息
+
+​	![-77f048844c95220b(1)](Java 的反射基本使用和运行原理/-77f048844c95220b(1).jpg)	哈哈 但这里并没有对象信息
 
 
 
@@ -295,7 +299,7 @@ public class demo5 {
 
 > 控制台如下：
 
-https://img-blog.csdnimg.cn/20200805151213488.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzQ5ODg4NTMz,size_16,color_FFFFFF,t_70
+![image-20200805104408497](Java 的反射基本使用和运行原理/image-20200805104408497.png)
 
 
 
